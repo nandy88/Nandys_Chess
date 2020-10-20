@@ -26,5 +26,3 @@ var ranksBoard = new Array(boardSqrNum);
 function fileAndRankToSquare(file, rank) {
   return ((21 + file) + (rank * 10)) 
 };
-
-test commit
